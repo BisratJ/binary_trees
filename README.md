@@ -56,4 +56,4 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 
 ## Author
-* Ananeya Tekalign - [Ananeya](https://github.com/Ananeya)
+* Bisrat Gizaw - [Bisrat](https://github.com/BisratJ)
